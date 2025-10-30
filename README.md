@@ -13,9 +13,7 @@ O que você pode esperar:
 - Linguagem acessível, com explicações claras e exemplos práticos.
 
 ## Primeiro episódio
-Aqui estará o link para o primeiro episódio: [Vou inserir aqui o nome do primeiro episódio]
-
-(Substitua o texto acima pelo título do episódio e adicione o link ou arquivo de áudio quando estiver pronto.)
+Aqui estará o link para o primeiro episódio: **A Cor que Valeu um Nobel**
 
 ## Contato
 Autor: Marcello Aquino Giovannini  
